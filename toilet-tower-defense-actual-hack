@@ -1,3 +1,3 @@
 while true do
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Aleem455/toilet-tower-defense-actual-hack/main/toilet-tower-defense-actual-hack",true))();
+loadstring(game:HttpGet(https://raw.githubusercontent.com/Aleem455/toilet-tower-defense-actual-hack/main/toilet-tower-defense-actual-hack,true))();
 end
